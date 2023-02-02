@@ -21,7 +21,7 @@ public class Ballot{
   }
 
   public void ranking(){
-    System.out.println("You ranked the candidates in the following order: first choice"+ranking[0]+", second choice"+ranking[1]+", and third choice"+ranking[2]);
+    System.out.println("You ranked the candidates in the following order: first choice "+ranking[0]+", second choice "+ranking[1]+", and third choice "+ranking[2]);
   }
 
 
